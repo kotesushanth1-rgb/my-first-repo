@@ -1,3 +1,1 @@
-## My goal
-
-I want to use GitHub for my engineering projects.
+Hello from my first GitHub repo!
