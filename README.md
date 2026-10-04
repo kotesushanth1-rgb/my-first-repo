@@ -1,4 +1,5 @@
-echo "Hello from my first GitHub repo!" > hello.txt
-git add hello.txt
-git commit -m "Add my first file"
-git push
+# my-first-repo
+
+## My goal
+
+I want to use GitHub for my engineering projects.
